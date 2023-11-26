@@ -1,5 +1,5 @@
 function obtenerMensajeSaludo(){
-    return 'Hola Elian Baez Estepan';
+    return 'Hello Elian Baez E.';
 }
 
 module.exports = obtenerMensajeSaludo;
